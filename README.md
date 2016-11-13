@@ -1,5 +1,9 @@
-## npm install webpack -g
+# ES6 map
 
-## npm install
+This project was created with [babel-webpack-starter] (https://github.com/Choniawko/babel-webpack-starter) 
 
-## webpack -w
+## Development server
+
+* npm install webpack -g
+* npm install
+* webpack -w
